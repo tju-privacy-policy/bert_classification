@@ -1,5 +1,4 @@
 # Copyright 2018 Dong-Hyun Lee, Kakao Brain.
-######
 
 """ Training Config & Helper Classes  """
 
